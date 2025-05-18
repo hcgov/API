@@ -1,5 +1,19 @@
  [ 
   {
+    "name": "Defamation Act",
+    "status": "Voting",
+    "type": "Legislative Act",
+    "date": "May 20th, 2025",
+    "assembly": 1
+  },
+  {
+    "name": "Amendment to the Integrity Act",
+    "status": "Voting",
+    "type": "Legislative Ammendment",
+    "date": "May 20th, 2025",
+    "assembly": 1
+  },
+  {
     "name": "For Vibes Act",
     "status": "Passed",
     "type": "Legislative Act",
