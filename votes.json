@@ -1,14 +1,21 @@
  [ 
   {
-    "name": "Defamation Act",
+    "name": "Misdemeanor Courts Ammendment",
     "status": "Voting",
+    "type": "Constitutional Ammendment",
+    "date": "May 21th, 2025",
+    "assembly": 1
+  },
+  {
+    "name": "Defamation Act",
+    "status": "Passed",
     "type": "Legislative Act",
     "date": "May 20th, 2025",
     "assembly": 1
   },
   {
     "name": "Amendment to the Integrity Act",
-    "status": "Voting",
+    "status": "Passed",
     "type": "Legislative Ammendment",
     "date": "May 20th, 2025",
     "assembly": 1
