@@ -1,4 +1,11 @@
  [ 
+ {
+    "name": "Filteration Act",
+    "status": "Voting",
+    "type": "Legislative Act",
+    "date": "May 22, 2025",
+    "assembly": 1
+  },
   {
     "name": "Misdemeanor Courts Ammendment",
     "status": "Voting",
